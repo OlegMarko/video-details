@@ -42,6 +42,8 @@ Next, register the `Fixik\VideoDetails\VideoDetailsServiceProvider` in your `con
         echo '</pre>';
 ```
 
+Enable `extension=php_curl.dll` in your `php.ini`
+
 ## License
 
 Phone Validator is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
