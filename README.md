@@ -1,9 +1,9 @@
 <p align="center">YouTube video details from video URL</p>
 
 <p align="center">
-<a href="https://packagist.org/packages/fixik/phone-validator"><img src="https://poser.pugx.org/fixik/phone-validator/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/fixik/phone-validator"><img src="https://poser.pugx.org/fixik/phone-validator/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/fixik/phone-validator"><img src="https://poser.pugx.org/fixik/phone-validator/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/fixik/video-details"><img src="https://poser.pugx.org/fixik/video-details/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/fixik/video-details"><img src="https://poser.pugx.org/fixik/video-details/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/fixik/video-details"><img src="https://poser.pugx.org/fixik/video-details/license.svg" alt="License"></a>
 </p>
 
 ## Introduction
