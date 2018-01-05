@@ -1,0 +1,20 @@
+{
+    "name": "fixik/video-details",
+    "description": "Get YouTube video details by video URL",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OlegMarko",
+            "email": "olegmarko7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fixik\\VideoDetails\\": "src"
+        }
+    }
+}
