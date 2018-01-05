@@ -11,7 +11,7 @@ class VideoDetails
      *
      * @return mixed
      */
-    public function getVideoDetailsByURL($video_url)
+    public static function getVideoDetailsByURL($video_url)
     {
         $get_video_details_link = "http://www.youtube.com/oembed?url={$video_url}&format=json";
 

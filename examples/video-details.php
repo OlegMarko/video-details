@@ -7,10 +7,8 @@ $url = null;
 if (isset($_POST['url'])) {
     $url = $_POST['url'];
 
-    $video_details = new \Fixik\VideoDetails\VideoDetails();
-
     echo '<pre>';
-        print_r($video_details->getVideoDetailsByURL($url));
+        print_r(\Fixik\VideoDetails\VideoDetails::getVideoDetailsByURL($url));
     echo '</pre>';
 }
 ?>
