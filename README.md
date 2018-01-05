@@ -46,4 +46,4 @@ Enable `extension=php_curl.dll` in your `php.ini`
 
 ## License
 
-Phone Validator is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+YouTube Video Details is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
