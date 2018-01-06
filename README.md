@@ -33,12 +33,13 @@ Next, register the `Fixik\VideoDetails\VideoDetailsServiceProvider` in your `con
     
         require_once 'vendor/autoload.php';
         
-        $url = 'YouTube video url';
+        use Fixik\VideoDetails\VideoDetails;
         
-        $video_details = new \Fixik\VideoDetails\VideoDetails();
-    
+        $url = 'https://www.youtube.com/watch?v=ol23jnhVAOY';
+        $video_details = VideoDetails::getVideoDetailsByURL($url);
+        
         echo '<pre>';
-            print_r($video_details->getVideoDetailsByURL($url));
+        print_r($video_details);
         echo '</pre>';
 ```
 
